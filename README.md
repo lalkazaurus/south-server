@@ -51,7 +51,7 @@ src/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/shop-backend.git
+   git clone https://github.com/lalkazaurus/south-server.git
    cd shop-backend
    ```
 
